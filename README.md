@@ -5,11 +5,11 @@ A device that detects four dangerous gases and alerts people if dangerous gases 
 
 # Hardware  
 
-Sensors and components
--Arduino uno R4 Board
--4-MQ gas sensors
--Buzzer
--2-LED
--OLED
--Stripboard
+Sensors and components  
+- Arduino uno R4 Board
+- 4-MQ gas sensors
+- Buzzer
+- 2-LED
+- OLED
+- Stripboard
 ![Image text](https://github.com/ChaceHH-H/Image/blob/main/Dangerous%20gas.png) 
